@@ -1,0 +1,91 @@
+"This is the HTML for the blog website"
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>My Blog</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+
+<body>
+    <!-- navigation -->
+    <header>
+        <h1>
+            <a href="/">
+                DxD Security Blog
+            </a>
+        </h1>
+        <a href="mailto:dani.d9x9@gmail.com" class="button">Get in touch!</a>
+        <a href="https://www.linkedin.com/in/dani-d-26a716248" class="linkedin"><img
+                src="https://drive.google.com/uc?export=view&id=14GW-oOoadlMxUGs5FvKkgGkrihtkFyUh" alt="LinkedIn logo"
+                height="45px"></a>
+    </header>
+
+
+    <!-- "About" section -->
+    <section id="about" class="intro">
+        <!--Replace with your own image-->
+        <img src="https://image.shutterstock.com/mosaic_250/549673/1198362232/stock-photo-hacking-and-malware-concept-hacker-using-abstract-laptop-with-binary-code-digital-interface-1198362232.jpg"
+         alt="Robert Smith picture" width=200px height=200px;>
+        <h2 class="section-title">Welcome to the DxD Security blog!</h2>
+ <p>
+            This blog is intended to serve as a repository for all of the things I learn and encounter throughout my cybersecurity journey.
+        Whether it be commentary on current tech related events, tutorials for programs, or explanation of concepts I have learned. This is where it can be found.
+         <br><br>
+            I hope that there this can serve as a useful resource for anyone getting into cybersecurity who happens to stumble across it.
+<br><br>
+PLEASE VIEW FULLSCREEN FOR BEST EXPERIENCE       
+ </p>
+    </section>
+
+
+    <!-- "Blog Posts" section -->
+    <section id="blog-post-collection" class="blog-posts">
+        <h2 class="section-title">Blog Posts</h2>
+        <article class="blog-post">
+            <img src="https://drive.google.com/uc?export=view&id=1ueyXZqXdMHEawBDTGLVD5-Kdp1t5DUZy&rl" alt="Image 1">
+
+            <div class="blog">
+                <h3>A Change is as good as a rest</h3>
+                <h4>Beginner, Challenges, Learning Curve, Persistance</h4>
+                <p>I've been a stagehand for the last 7 years. I've done over 300 shows and I've done lots of really cool things. Tha being said, the stagehand lifestyle takes a huge toll
+on ones body and mind. Up until recently I didn't think that getting into cbyersecurity was something that was attainable for me, but I'm at a point in my career and life where I'm ready for a change. All of that is to say that cybersecurity has been a passion of mine all of my life.
+<br><br>
+When I was in middle school I competed in the optimist club oratorical contest and spoke about the idea of syncing ones devices to itunes and itunes storing sensitive personal data without the user knowing. In high school I did my capstone project on the hasty conception of the Patriot act and the
+government and law enforcements use of its loopholes to infringe upon the rights of private citizens. The thesis was essnetially that (in 2017) the state of government internet monitoring and the creation of profiles on ordinary citizens based on their digital activity, infringes our 4th amendment rights and must be combatted. 
+
+<br><br> 
+Now that I understand a far wider range of cybersecurity concepts than when I started, I'm excited to revisit old ideas and projects and just see what I can do with my knowledge. I am also very excited to begin a new career in a fascinating anf fulfilling industry.
+                </p>
+            </div>
+        </article>
+
+
+        <!-- second blog post -->
+        <article class="blog-post">
+            <img src="https://drive.google.com/uc?export=view&id=1PJrGBg8LgxHAzwhfM6drWR5fdfNQkRE4" alt="Image-2">
+            <div class="blog">
+                <h3>Ask and you shall recieve</h3>
+                <h4>Cybersecurity, Humor, Jokes </h4>
+                <p>
+                    Since I got all squishy in the last blog post, I thought I would fulfill a request by our TA for humor in our blog posts.
+Compiled here are 5 cybersecurity  jokes I've found (paraphrased of course)
+<br><br>
+1) Cybersecurity is like an onion, its got lots of layers and will definietly make you want to cry.
+<br><br>
+2) Layer 8 is where most issues occur. There's an 8th OSI layer? Yeah, its the user...
+<br><br>
+3)Linux isn't real magic, its just sudo-science.
+<br><br>
+4) Wanna hear a UDP joke? Did you get it?
+<br><br>
+5) The azure user experience...
+                </p>
+            </div>
+        </article>
+    </section>
+</body>
+
+</html>
