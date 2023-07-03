@@ -1,5 +1,3 @@
-"This is the HTML for the blog website"
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -48,16 +46,19 @@ PLEASE VIEW FULLSCREEN FOR BEST EXPERIENCE
             <img src="https://drive.google.com/uc?export=view&id=1ueyXZqXdMHEawBDTGLVD5-Kdp1t5DUZy&rl" alt="Image 1">
 
             <div class="blog">
-                <h3>A Change is as good as a rest</h3>
-                <h4>Beginner, Challenges, Learning Curve, Persistance</h4>
-                <p>I've been a stagehand for the last 7 years. I've done over 300 shows and I've done lots of really cool things. Tha being said, the stagehand lifestyle takes a huge toll
-on ones body and mind. Up until recently I didn't think that getting into cbyersecurity was something that was attainable for me, but I'm at a point in my career and life where I'm ready for a change. All of that is to say that cybersecurity has been a passion of mine all of my life.
+                <h3> Think sutting down the internet will keep people from communicating? Nah...</h3>
+                <h4>WhatsApp, Messaging, Privacy, Free Speech</h4>
+                <p>
+Recently the private messaging app WhatsApp has released features that will prevent intentionally imposed internet shutdowns and government monitoring in places like India, Iran, Russia, and even the US from blocking their messaging service.
+ These features work by allowing the app to connect to a proxy server that is separate from the WhatsApp server in order to obfuscate the actual destination and source of the message. This prevents monitoring and internet shutdowns from targeting those messages (server requests) and blocking them. 
 <br><br>
-When I was in middle school I competed in the optimist club oratorical contest and spoke about the idea of syncing ones devices to itunes and itunes storing sensitive personal data without the user knowing. In high school I did my capstone project on the hasty conception of the Patriot act and the
-government and law enforcements use of its loopholes to infringe upon the rights of private citizens. The thesis was essnetially that (in 2017) the state of government internet monitoring and the creation of profiles on ordinary citizens based on their digital activity, infringes our 4th amendment rights and must be combatted. 
+This on the surface is positive, although it is understandable why some people would be concerned by it. On the governmental side, it's obvious why they wouldn't want a platform such as WhatsApp from making such evasion methods accessible to users. But on the consumer side, it's understandable why people would be concerned as this now means that violent fringe groups could communicate plans without being able to be monitored.
+<br><br> Although this is a valid concern, It seems like a net positive as this shows a dedication to offering privacy for average consumers in their communication as well as making potentially lifesaving information available to those who are deprived of free communication. Free and unobstructed communication is essential and a right to all. The introduction of this feature serves to safeguard this and make it more accessible to the average user.
+<br><br> I will say that I have concerns about the true motives of WhatsApp, but so far (and with minimal research) I don't find anything suspicious about WhatsApp, but more information is needed. Although it seems as if they're working to protect privacy, it is important to remember that if the product is free, you are the product. So, sure WhatsApp is allowing people to connect to their proxy servers, but what incentive do they have for doing that? Is it truly altruistic, or is there an alternative purpose?
 
-<br><br> 
-Now that I understand a far wider range of cybersecurity concepts than when I started, I'm excited to revisit old ideas and projects and just see what I can do with my knowledge. I am also very excited to begin a new career in a fascinating anf fulfilling industry.
+<br><br> That is to be further researched and will be revisited here in the future.
+
+
                 </p>
             </div>
         </article>
@@ -67,21 +68,19 @@ Now that I understand a far wider range of cybersecurity concepts than when I st
         <article class="blog-post">
             <img src="https://drive.google.com/uc?export=view&id=1PJrGBg8LgxHAzwhfM6drWR5fdfNQkRE4" alt="Image-2">
             <div class="blog">
-                <h3>Ask and you shall recieve</h3>
-                <h4>Cybersecurity, Humor, Jokes </h4>
-                <p>
-                    Since I got all squishy in the last blog post, I thought I would fulfill a request by our TA for humor in our blog posts.
-Compiled here are 5 cybersecurity  jokes I've found (paraphrased of course)
+                <h3>What AI can do for you? What Will AI do to you?</h3>
+                <h4>AI, Machine Learning, IDS</h4>
+                <p>AI isn't foreign to anyone that has been paying attention to the news. That being said though, AI still is a mystery in its potential ramifications to cybersecurity as well as humanity as a whole.
 <br><br>
-1) Cybersecurity is like an onion, its got lots of layers and will definietly make you want to cry.
+That being said, its impact specifically on cybersecurity leaves much up to question. How will it be used? Will threat actors be able to use AI to enhance their attacks? Will cybersecurity professionals be able to use AI to bolster their defenses against future attacks?
 <br><br>
-2) Layer 8 is where most issues occur. There's an 8th OSI layer? Yeah, its the user...
+It seems as though both could be the case. For example, take an IDS (Incident Detection System)
+An IDS is a program used to detect malware and other malicious programs on a system and log when it detects such a program. Cybersecurity professionals could leverage AI technology (more specifically machine learning, however AI and machine learning are used interchangeably in the media) to learn from its detection logs to look for commonalities and predict what could be a potential threat and what type of threat that is. Essentially a machine learning enhanced antivirus.
 <br><br>
-3)Linux isn't real magic, its just sudo-science.
+On the other hand, attackers could also benefit from advancements in AI and machine learning in order to better evade detection by IDS’s and antivirus software by better concealing itself in ways that would be harder to detect. Almost a machine learning enhanced version of a LOTL attack that can use its understanding of what is commonly detected and shift its payload to directories that are less frequently searched.
 <br><br>
-4) Wanna hear a UDP joke? Did you get it?
-<br><br>
-5) The azure user experience...
+Either way, AI seems as though it will significantly alter the cybersecurity landscape regardless of what it is used for. Whatever it isn’t capable of now, it will be sooner than we think and planning to mitigate the new threats and leveraging its capabilities for defense will be paramount.
+               
                 </p>
             </div>
         </article>
